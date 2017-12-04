@@ -1,0 +1,29 @@
+/*.block1 {*/
+    /*width:  33.333%;*/
+    /*background: green;*/
+    /*height: 500px;*/
+/*}*/
+
+/*.block2 {*/
+    /*width: 33.333%;*/
+    /*background: red;*/
+    /*height: 200px;*/
+/*}*/
+/*.block3 {*/
+    /*width: 33.333%;*/
+    /*background: blue;*/
+    /*height: 300px;*/
+/*}*/
+
+/*.Layer_1 {*/
+    /*position: absolute;*/
+    /*left: 0px;*/
+    /*top: 0px;*/
+    /*width: 0px;*/
+    /*height: 0px;*/
+    /*z-index: 2;*/
+/*}*/
+@import "bootstrap.css";
+body {
+    font-family: 'Montserrat', sans-serif;
+}
